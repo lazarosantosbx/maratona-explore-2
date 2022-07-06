@@ -31,7 +31,7 @@ body.pink{
   
 body{
     background: url(https://wallpaperaccess.com/full/1338411.jpg);
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     color: var(--text-color);
     font-family: 'Roboto', sans-serif;
