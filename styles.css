@@ -19,6 +19,7 @@ html{
 body.dark-blue{
     --bg-color: #00082F;
     --text-color: #FFFFFF;
+    background: url(https://wallpaperaccess.com/full/1338411.jpg);
 }
   
 body.pink{
@@ -30,7 +31,6 @@ body.pink{
   
   
 body{
-    background: url(https://wallpaperaccess.com/full/1338411.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color: var(--text-color);
